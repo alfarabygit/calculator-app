@@ -54,7 +54,7 @@ body {
 }
 
 .equals {
-  background: rgb(165, 223, 165);
+  /* background: rgb(165, 223, 165); */
   grid-column: 3/5;
 }
 
